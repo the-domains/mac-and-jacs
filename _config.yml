@@ -1,0 +1,14 @@
+layout_spectrum: 0.9856631
+color:
+  saturation: 1
+  lightness: 0.811828
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#45413F'
+    - '#BBD85C'
+    - '#6F6D6C'
+    - '#D8D7D6'
+  rhythmicContrast: 0.7060932
+typography_spectrum: 0.2419355
+name: Mac and Jacs
