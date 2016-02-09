@@ -1,7 +1,7 @@
 name: "Mac and Jac's"
 favicon: null
-layout_spectrum: 0.75144
-typography_spectrum: 0.24579
+layout_spectrum: 0.60886
+typography_spectrum: 0.52325
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#BBD85C'
     - '#6F6D6C'
     - '#D8D7D6'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.875
-  rhythmicContrast: 0
+  brandStrength: 0.25
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
