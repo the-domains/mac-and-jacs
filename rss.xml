@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mac and Jacs]]></title>
         <description><![CDATA[Mac and Jacs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mac-and-jacs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 22:25:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 22:27:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mac-and-jacs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CAFÉ – RESTAURANT, ARTISAN PRODUCE - DELI,  FINE FOOD SHOP]]></title>
+            <description><![CDATA[<article><h1>CAFÉ – RESTAURANT, ARTISAN PRODUCE - DELI,  FINE FOOD SHOP</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a21c6c9c-0a78-41d3-8321-c327f1d350ba.JPG"></article>]]></description>
+            <link>https://thegrid.ai/mac-and-jacs/cafe-restaurant-artisan-produce-deli-fine-food-shop/index.html</link>
+            <guid isPermaLink="false">495268e3-bffa-4525-b629-7353da68aa6e</guid>
+            <pubDate>Tue, 09 Feb 2016 22:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0608c04-725b-47f0-b4da-0053193eb9dd.jpg">]]></description>
-            <link>undefinedec8f4859-a1aa-42f6-8fbf-791eac5a4038/index.html</link>
+            <link>https://thegrid.ai/mac-and-jacs/ec8f4859-a1aa-42f6-8fbf-791eac5a4038/index.html</link>
             <guid isPermaLink="false">ec8f4859-a1aa-42f6-8fbf-791eac5a4038</guid>
             <pubDate>Tue, 09 Feb 2016 22:07:18 GMT</pubDate>
         </item>
