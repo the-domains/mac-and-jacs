@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mac and Jacs]]></title>
-        <description><![CDATA[Mac and Jacs]]></description>
+        <title><![CDATA[Mac & Jac's]]></title>
+        <description><![CDATA[Mac & Jac's]]></description>
         <link>https://thegrid.ai/mac-and-jacs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 23:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 23:23:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mac-and-jacs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CAFÉ – RESTAURANT, ARTISAN PRODUCE - DELI,  FINE FOOD SHOP]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0608c04-725b-47f0-b4da-0053193eb9dd.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c74f3c2-14bf-4b1d-aef2-efa8cbdab9d6.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/mac-and-jacs/ec8f4859-a1aa-42f6-8fbf-791eac5a4038/index.html</link>
             <guid isPermaLink="false">ec8f4859-a1aa-42f6-8fbf-791eac5a4038</guid>
-            <pubDate>Tue, 09 Feb 2016 23:01:43 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 23:20:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
