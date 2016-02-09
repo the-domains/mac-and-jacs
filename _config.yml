@@ -1,7 +1,7 @@
 name: Mac and Jacs
 favicon: null
-layout_spectrum: 0.1344086
-typography_spectrum: 0.2419355
+layout_spectrum: 0.25772
+typography_spectrum: 0.23423
 collections:
   - index:
       path: /
@@ -33,7 +33,7 @@ color:
     - '#BBD85C'
     - '#6F6D6C'
     - '#D8D7D6'
-  brandStrength: 0.25
+  brandStrength: 0.1875
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.25
