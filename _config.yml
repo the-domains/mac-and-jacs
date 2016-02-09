@@ -1,28 +1,40 @@
-name: Mac and Jacs
-favicon: null
-layout_spectrum: 0.9856631
-typography_spectrum: 0.2419355
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.1344086
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.9856631
+  lightness: 0.811828
   brandColors:
     - '#FFFFFF'
     - '#45413F'
     - '#BBD85C'
     - '#6F6D6C'
     - '#D8D7D6'
-  brandStrength: 1
-  lightness: 0.811828
-  saturation: 1
   rhythmicContrast: 0.7060932
-purpose: []
+typography_spectrum: 0.2419355
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Mac and Jacs
