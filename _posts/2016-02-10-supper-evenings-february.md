@@ -1,32 +1,33 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Menu for our supper evenings in February
-datePublished: '2016-02-10T00:01:11.908Z'
-dateModified: '2016-02-10T00:00:43.573Z'
+datePublished: '2016-02-10T10:42:27.871Z'
+dateModified: '2016-02-10T10:42:26.338Z'
 title: Supper evenings February
 author: []
+sourcePath: _posts/2016-02-10-supper-evenings-february.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-supper-evenings-february.md
-published: true
 url: supper-evenings-february/index.html
 _type: Article
 
 ---
-FEBRUARY SUPPER EVENINGS 
+FEBRUARY SUPPER EVENINGS  
+6:30pm - 7:00pm arrival time  
+Friday12th & Saturday 13th   
+_Fully booked_
 
-Friday12th & Saturday 13th 
-
-Fully booked
+Menu
 
 - Duck liver parfait, toasted sourdough, spiced plum relish
 
